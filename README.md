@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/970/0*1geNIsiclzJROVrH.png)]
+![MasterHead](https://miro.medium.com/max/970/0*1geNIsiclzJROVrH.png)
 
 
 
