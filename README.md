@@ -13,7 +13,7 @@
 
 
 
-<img align="right" alt="Coding" width="100" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="right" alt="Coding" width="500" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 
 
