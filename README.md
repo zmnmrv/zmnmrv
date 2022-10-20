@@ -13,7 +13,7 @@
 
 
 
-<img align="right" alt="Coding" width="500" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="center" alt="Coding" width="500" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 
 
@@ -21,6 +21,7 @@
 
 
 - 🔭 I’m currently working on **MLOPs22**
+Mortgage Default Model on Fannie Mae Mortgage Loans![image](https://user-images.githubusercontent.com/99492400/197020823-c6e4e8de-43ff-4a46-850b-052a6ab93a0c.png)
 
 <h3 align="left">Connect with me:</h3>
 
