@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently working on **MLOPs22**
-Mortgage Default Model on Fannie Mae Mortgage Loans![image](https://user-images.githubusercontent.com/99492400/197020823-c6e4e8de-43ff-4a46-850b-052a6ab93a0c.png)
+Mortgage Default Model on Fannie Mae![image](https://user-images.githubusercontent.com/99492400/197020823-c6e4e8de-43ff-4a46-850b-052a6ab93a0c.png)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -30,10 +30,10 @@ Mortgage Default Model on Fannie Mae Mortgage Loans![image](https://user-images.
 
 
 
-<a href="https://twitter.com/HaticeMerveOzm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozmnmrv" height="30" width="40" /></a>
+<a href="https://twitter.com/HaticeMerveOzm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozmnmrv" height="50" width="50" /></a>
 
 
-<a href="https://linkedin.com/in/ozmenh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozmen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ozmenh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozmen" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
