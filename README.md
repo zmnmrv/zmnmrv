@@ -39,6 +39,8 @@ Mortgage Default Model on Fannie Mae!
 <a href="https://twitter.com/HaticeMerveOzm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozmnmrv" height="50" width="50" /></a>
 
 
+   
+   
   
   
 <a href="https://linkedin.com/in/ozmenh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozmen" height="50" width="50" /></a>
