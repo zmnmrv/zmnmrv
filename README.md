@@ -15,7 +15,15 @@ I'm Hatice Merve</h1>
 - 🔭 I’m currently working on **MLOPs22**
 Mortgage Default Model on Fannie Mae!
    
+   
+   
+   
    and NLP Twitter Sentiment Analysis 
+   
+   
+   
+   
+   
 
 <h3 align="left">Connect with me:</h3>
 
