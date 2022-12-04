@@ -12,13 +12,20 @@ I'm Hatice Merve</h1>
 <img align="center" alt="Coding" width="500" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 
-- 🔭 I’m currently working on **MLOPs22**
+   
+   
+🔭 I’m learning and exercising on PySpark for my Big Data project.
+🌱 I’m cracking the data science interviews.
+🤔 
+
+- 🔭 I’ve done **MLOPs22**
 Mortgage Default Model on Fannie Mae!
+     and NLP Twitter Sentiment Analysis. 
    
    
    
    
-   and NLP Twitter Sentiment Analysis 
+   
    
    
    
