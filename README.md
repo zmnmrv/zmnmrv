@@ -3,10 +3,17 @@
 
 
 <h1 align="center">Hi 👋 
+   
+   
 
 I'm Hatice Merve</h1>
 
+
+
+
 <h3 align="center">A passionate data scientist from USA</h3
+
+   
    
    
 
